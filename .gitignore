@@ -1,0 +1,13 @@
+# File esempio base
+target/
+# Java
+# Compiled class file
+*.class
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
+atlassian-ide-plugin.xml
+target/
